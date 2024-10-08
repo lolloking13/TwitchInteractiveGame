@@ -1,0 +1,12 @@
+All Assets Are FREE On The Unity Asset Store! 
+I REMOVED UNUSED ASSETS FROM FOLDERS, SO, IF YOU WANT DOWNLOAD THE COMPLETE ASSET YOU MUST DO IT FROM THE STORE!
+
+Links:
+
+Twitch Chat Connect: https://assetstore.unity.com/packages/tools/network/twitch-chat-connect-173828
+Third Person Controller - Basic Locomotion FREE: https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048
+RPG Character Mecanim Animation Pack FREE: https://assetstore.unity.com/packages/3d/animations/rpg-character-mecanim-animation-pack-free-65284
+
+Dependencies:
+Unity IA Nav Mesh system
+TextMesh Pro
